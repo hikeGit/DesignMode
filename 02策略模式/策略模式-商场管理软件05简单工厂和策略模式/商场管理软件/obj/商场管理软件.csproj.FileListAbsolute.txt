@@ -1,0 +1,2 @@
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件05简单工厂和策略模式\商场管理软件\obj\Debug\商场管理软件.exe
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件05简单工厂和策略模式\商场管理软件\obj\Debug\商场管理软件.pdb

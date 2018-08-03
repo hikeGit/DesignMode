@@ -1,0 +1,8 @@
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\obj\Debug\商场管理软件.exe
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\obj\Debug\商场管理软件.pdb
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\obj\Debug\商场管理软件.Form1.resources
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\obj\Debug\商场管理软件.Properties.Resources.resources
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\obj\Debug\商场管理软件.csproj.GenerateResource.Cache
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\bin\Debug\商场管理软件.exe
+D:\dotnet\创业时开发\Win程序2005\BigTalkDesignPattenSourceCode\02策略模式\策略模式-商场管理软件06反射\商场管理软件\bin\Debug\商场管理软件.pdb
